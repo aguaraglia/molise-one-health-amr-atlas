@@ -1,0 +1,30 @@
+{
+ "queried": "2026-11-20",
+ "user_agent": "CodexVitae-AMR-atlas/1.0 (info@codexvitae.it)",
+ "params": "countrycodes=it, format=jsonv2, limit=3, 1 richiesta al secondo",
+ "results": {
+  "Ospedale Antonio Cardarelli, Campobasso": [
+   {
+    "place_id": 81646907,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 403887709,
+    "lat": "41.5478632",
+    "lon": "14.6223212",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.391622796974162e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Antonio Cardarelli",
+    "display_name": "Ospedale Antonio Cardarelli, Strada Provinciale 143 Faiete, Tappino, Campobasso, Molise, 86100, Italia",
+    "boundingbox": [
+     "41.5466289",
+     "41.5489930",
+     "14.6207150",
+     "14.6242738"
+    ]
+   }
+  ]
+ }
+}

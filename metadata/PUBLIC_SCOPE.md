@@ -1,0 +1,13 @@
+# Ambito pubblico del Molise One Health AMR Atlas
+
+Edizione `molise_amr_atlas`, pubblicata da Codex Vitae ETS. Il runtime carica soltanto le fonti `public_approved`.
+
+La base pubblica comprende:
+
+- confini ISTAT generalizzati al 1 gennaio 2026, letti in UTF-8: 136 comuni, 2 province (Campobasso CB 070, Isernia IS 094) e la regione 14. I nomi con apostrofo o accento (per esempio «Sant'Angelo Limosano», «Forlì del Sannio», «Colle d'Anchise») non sono ricodificati;
+- sei indicatori AR-ISS 2024 (sangue e liquor), con numerosità, percentuale e intervallo di confidenza. Copertura 67,0%. Nel 2024 i laboratori referenti molisani sono tre (Osp. F. Veneziale, Isernia; Osp. S. Timoteo, Termoli; PO A. Cardarelli, Campobasso). Le numerosità sono molto piccole (21-132 isolati; per alcuni indicatori il rapporto segnala meno di 20 isolati) e le variazioni si leggono con molta cautela. Licenza CC BY 4.0, attribuzione Istituto Superiore di Sanità (EpiCentro, RIS-5/2025). Nessun downscaling comunale;
+- confezioni e spesa degli antibatterici J01 dagli Open Data AIFA 2024 (convenzionata e acquisti diretti, codreg 140), CC BY 4.0, attribuzione Agenzia Italiana del Farmaco: consumo, non resistenza e non DDD;
+- una struttura nominata, georiferita con Nominatim il 20 novembre 2026 (ODbL 1.0, © OpenStreetMap contributors): Ospedale A. Cardarelli, Campobasso. I depuratori di Termoli e Campobasso e gli abbeveratoi di Frosolone, Carpinone e Civitanova del Sannio usano i poligoni comunali;
+- 11 studi con collegamento territoriale esplicito (20 novembre 2026), nei sei layer di evidenza. 1 studio è su una struttura, 3 su un comune e 7 sulla regione. Il layer umano ha 1 elemento e 1 studio. Il veterinario non ha elementi. L'alimentare ha 1 elemento e 1 studio. L'ambientale ha 2 elementi e 2 studi. La fauna selvatica non ha elementi. Il contorno regionale raccoglie 7 studi umani. Un layer senza elementi è nessuna evidenza pubblicata, non resistenza zero. Il segnaposto indica dove è stato condotto lo studio, non una prevalenza. Gli articoli dei sette studi regionali non nominano l'ospedale.
+
+Non sono pubblicati i materiali della Regione Molise, del portale open data regionale, dell'ASReM, dell'ARPA Molise, del sito dell'IZS dell'Abruzzo e del Molise né il PDF OsMed: vedi `EXCLUDED_SOURCES.md`. L'IZS dell'Abruzzo e del Molise copre entrambe le regioni: entrano solo gli studi, già nel catalogo, che separano i dati molisani. Nessun rapporto ISTISAN o ISS regionale sul Molise è stato trovato. Non ci sono record individuali, identificativi di paziente o campione, né coordinate di RSA, aziende agricole, canili, macelli o depuratori non nominati.

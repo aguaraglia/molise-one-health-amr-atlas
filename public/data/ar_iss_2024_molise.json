@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "molise_amr_atlas",
+  "source_id": "ar_iss_2024_molise",
+  "period": 2024,
+  "geography": "Molise",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 67.0,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; nel 2024 i laboratori referenti molisani sono tre (Osp. F. Veneziale, Isernia; Osp. S. Timoteo, Termoli; PO A. Cardarelli, Campobasso); serie con dati dal 2017; numerosità molto piccole (21-132 isolati per indicatore, VRE-faecium e CRPA poco sopra 20); il rapporto avverte che per alcuni indicatori del Molise le percentuali poggiano su meno di 20 isolati"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 91,
+      "resistant": 37,
+      "percent": 40.7,
+      "ci95": "30.5-51.5"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 21,
+      "resistant": 12,
+      "percent": 57.1,
+      "ci95": "34.0-78.2"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 132,
+      "resistant": 51,
+      "percent": 38.6,
+      "ci95": "30.3-47.5"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 62,
+      "resistant": 19,
+      "percent": 30.6,
+      "ci95": "19.6-43.7"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 24,
+      "resistant": 5,
+      "percent": 20.8,
+      "ci95": "7.1-42.2"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 32,
+      "resistant": 31,
+      "percent": 96.9,
+      "ci95": "83.8-99.9"
+    }
+  ],
+  "trend_note": "Serie 2017-2024 nell'Appendice A: MRSA 29,4% (2017) -> 40,7% (2024); VRE-faecium 0/8 (2017) -> 57,1% (2024); CREC 36,2% (2017) -> 38,6% (2024); CRKP 15,4% (2017, 13 isolati) -> 30,6% (2024); CRPA 16,7% (2017, 6 isolati) -> 20,8% (2024); CRAS 80,0% (2017) -> 96,9% (2024). Prima del 2023 quasi tutti gli indicatori Gram-negativi hanno meno di 20 isolati: leggere le variazioni con molta cautela.",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura, p. 12) e Appendice A, Regione Molise (p. 49 a stampa, p. 57 del PDF); referenti dei laboratori p. 2",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-20",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}
