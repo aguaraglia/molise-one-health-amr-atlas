@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "edition": "molise_amr_atlas",
+  "selection_note": "Selezione curata e aggiornata il 2026-11-20: studi regionali o locali con collegamento territoriale esplicito al Molise (provincia, comune o struttura nominata, o regione intera). Gli studi IZS Abruzzo e Molise entrano solo se la quota molisana è separata (titolo/abstract, o testo integrale open access per i casi dubbi). L'afferenza degli autori da sola non basta. Esclusi per ora gli studi di sola resistenza antifungina e ai biocidi (decisione di ambito aperta). Non equivale a una revisione sistematica e gli studi locali non sono trasformati in stime regionali.",
+  "records": [
+    {
+      "id": "pubmed_42792000",
+      "year": 2026,
+      "title": "Integrated qPCR and Shotgun Metagenomics for Surveillance of Antimicrobial Resistance in Municipal Wastewater from Central Italy.",
+      "authors": "Timoteo FD et al.",
+      "journal": "Antibiotics (Basel)",
+      "scope": "environmental_amr",
+      "geographic_link": "Tre depuratori molisani (Pantano Basso e Zona Porto a Termoli, San Pietro a Campobasso), qPCR e metagenomica. Scala: comune. Luogo verificato sul testo integrale.",
+      "pmid": "42792000",
+      "doi": "10.3390/antibiotics15090850",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42792000/"
+    },
+    {
+      "id": "pubmed_42904452",
+      "year": 2026,
+      "title": "Antimicrobial Resistance Trends in COVID-19 Patients with Hospital Infection in Intensive Care: A Retrospective Study in Central Italy, 2020-2022.",
+      "authors": "Ripabelli G et al.",
+      "journal": "Microb Drug Resist",
+      "scope": "healthcare_amr",
+      "geographic_link": "Molise, terapia intensiva (AMR in pazienti COVID-19, 2020-2022). Scala: regione.",
+      "pmid": "42904452",
+      "doi": "10.1177/10766294261500546",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42904452/"
+    },
+    {
+      "id": "pubmed_39929183",
+      "year": 2025,
+      "title": "Hospital environment as reservoir of Pseudomonas aeruginosa in human cases: a molecular epidemiology investigation in a hospital setting in central Italy.",
+      "authors": "Lombardi A et al.",
+      "journal": "Lett Appl Microbiol",
+      "scope": "healthcare_amr",
+      "geographic_link": "Molise, ospedale hub non nominato (P. aeruginosa MDR clinica e ambientale). Scala: regione.",
+      "pmid": "39929183",
+      "doi": "10.1093/lambio/ovaf019",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39929183/"
+    },
+    {
+      "id": "pubmed_40430803",
+      "year": 2025,
+      "title": "Enterococcus faecium as an Emerging Pathogen: Molecular Epidemiology and Antimicrobial Resistance in Clinical Strains.",
+      "authors": "Lombardi A et al.",
+      "journal": "Pathogens",
+      "scope": "healthcare_amr",
+      "geographic_link": "Molise, due ospedali non nominati (E. faecium resistente alla vancomicina). Scala: regione. Luogo verificato sul testo integrale.",
+      "pmid": "40430803",
+      "doi": "10.3390/pathogens14050483",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40430803/"
+    },
+    {
+      "id": "pubmed_34821539",
+      "year": 2023,
+      "title": "Infections and Colon Surgery: Preliminary Results from a Surveillance Program in an Italian Hospital.",
+      "authors": "Ripabelli G et al.",
+      "journal": "Hosp Top",
+      "scope": "antimicrobial_stewardship",
+      "geographic_link": "Molise, un ospedale non nominato (infezioni del sito chirurgico, profilassi antibiotica). Scala: regione.",
+      "pmid": "34821539",
+      "doi": "10.1080/00185868.2021.2006103",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/34821539/"
+    },
+    {
+      "id": "pubmed_38379748",
+      "year": 2023,
+      "title": "Healthcare infections and antimicrobial consumption in pre-COVID-19 era: a point prevalence survey in three hospitals in a region of Central Italy.",
+      "authors": "Tamburro M et al.",
+      "journal": "J Prev Med Hyg",
+      "scope": "human_antimicrobial_use",
+      "geographic_link": "Molise, tutti gli ospedali pubblici per acuti (PPS di ICA e consumo di antimicrobici). Scala: regione. Luogo verificato sul testo integrale.",
+      "pmid": "38379748",
+      "doi": "10.15167/2421-4248/jpmh2023.64.4.2962",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38379748/"
+    },
+    {
+      "id": "pubmed_36500269",
+      "year": 2022,
+      "title": "Effects of EOs vs. Antibiotics on E. coli Strains Isolated from Drinking Waters of Grazing Animals in the Upper Molise Region, Italy.",
+      "authors": "Aquilano C et al.",
+      "journal": "Molecules",
+      "scope": "environmental_amr",
+      "geographic_link": "Alto Molise, abbeveratoi e pozze di pascolo a Frosolone, Carpinone e Civitanova del Sannio (E. coli, antibiogramma). Scala: comune. Luogo verificato sul testo integrale.",
+      "pmid": "36500269",
+      "doi": "10.3390/molecules27238177",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36500269/"
+    },
+    {
+      "id": "pubmed_30745199",
+      "year": 2019,
+      "title": "Healthcare-associated infections point prevalence survey and antimicrobials use in acute care hospitals (PPS 2016-2017) and long-term care facilities (HALT-3): a comprehensive report of the first experience in Molise Region, Central Italy, and targeted intervention strategies.",
+      "authors": "Ripabelli G et al.",
+      "journal": "J Infect Public Health",
+      "scope": "human_antimicrobial_use",
+      "geographic_link": "CAMPOBASSO, Ospedale A. Cardarelli (PPS ECDC 2016-2017 su ICA e consumo di antimicrobici; HALT-3 nella RSA di Larino, non localizzata). Scala: struttura nominata.",
+      "pmid": "30745199",
+      "doi": "10.1016/j.jiph.2019.01.060",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30745199/"
+    },
+    {
+      "id": "pubmed_31819559",
+      "year": 2019,
+      "title": "Molecular Epidemiological Insights into Colistin-Resistant and Carbapenemases-Producing Clinical Klebsiella pneumoniae Isolates.",
+      "authors": "Di Tella D et al.",
+      "journal": "Infect Drug Resist",
+      "scope": "healthcare_amr",
+      "geographic_link": "Molise, ospedale principale non nominato (Kp resistente alla colistina e carbapenemasi). Scala: regione. Luogo verificato sul testo integrale.",
+      "pmid": "31819559",
+      "doi": "10.2147/IDR.S226416",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31819559/"
+    },
+    {
+      "id": "pubmed_29523910",
+      "year": 2018,
+      "title": "Tracking Multidrug-Resistant Klebsiella pneumoniae from an Italian Hospital: Molecular Epidemiology and Surveillance by PFGE, RAPD and PCR-Based Resistance Genes Prevalence.",
+      "authors": "Ripabelli G et al.",
+      "journal": "Curr Microbiol",
+      "scope": "healthcare_amr",
+      "geographic_link": "Molise, un ospedale non nominato (K. pneumoniae MDR 2010 e 2014-2016). Scala: regione.",
+      "pmid": "29523910",
+      "doi": "10.1007/s00284-018-1475-3",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29523910/"
+    },
+    {
+      "id": "pubmed_20377962",
+      "year": 2010,
+      "title": "Prevalence and biomolecular characterization of Campylobacter spp. isolated from retail meat.",
+      "authors": "Sammarco ML et al.",
+      "journal": "J Food Prot",
+      "scope": "foodborne_amr",
+      "geographic_link": "Campobasso (Campylobacter da carni al dettaglio). Scala: comune.",
+      "pmid": "20377962",
+      "doi": "10.4315/0362-028x-73.4.720",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/20377962/"
+    }
+  ]
+}

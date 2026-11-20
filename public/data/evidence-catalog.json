@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "edition": "molise_amr_atlas",
+  "records": [
+    {
+      "id": "ar_iss_2024_molise",
+      "title": "AR-ISS 2024 - Molise",
+      "publisher": "Istituto Superiore di Sanita",
+      "evidence_type": "human_amr_regional",
+      "geography": "Molise",
+      "period": "2024",
+      "source_url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+      "data_file": "public/data/ar_iss_2024_molise.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Copertura 67,0%, tre laboratori (Veneziale di Isernia, San Timoteo di Termoli, Cardarelli di Campobasso). MRSA 40,7% (37/91), VRE-faecium 57,1% (12/21), CREC 38,6% (51/132), CRKP 30,6% (19/62), CRPA 20,8% (5/24), CRAS 96,9% (31/32); numerosità molto piccole, nessun downscaling."
+    },
+    {
+      "id": "aifa_opendata_2024_molise_j01",
+      "title": "AIFA Open Data 2024 - Molise, antibatterici J01",
+      "publisher": "Agenzia Italiana del Farmaco",
+      "evidence_type": "human_antimicrobial_use",
+      "geography": "Molise",
+      "period": "2024",
+      "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+      "data_file": "public/data/aifa_opendata_2024_molise_j01.json",
+      "publication_status": "public_approved",
+      "license": "CC BY 4.0",
+      "note": "Convenzionata 491.921 confezioni, 3,89 milioni di euro; acquisti diretti 55.200 confezioni, 0,82 milioni di euro. Consumo, non resistenza."
+    }
+  ]
+}
